@@ -3,3 +3,5 @@ if ("berkPrework" === true) {
 } else {
   console.log("berk?", 1984)
 }
+
+console.log('Owelly')
