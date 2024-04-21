@@ -1,7 +1,7 @@
 if ("berkPrework" === true) {
-  console.log("¡berk!");
+	console.log("¡berk!");
 } else {
-  console.log("berk?", 1984)
+	console.log("berk?", 1984);
 }
 
-console.log('Owelly')
+console.log("Owelly");
